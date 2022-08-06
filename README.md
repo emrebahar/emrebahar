@@ -7,7 +7,7 @@
 <h3 align="left">📩 Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yunusemrebahar/" target="blank"><img align="left"  src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Yunus Emre BAHAR" height="30" width="30" /></a>
-<a  href="https://twitter.com/emrebjk24" target="blank"><img  align="center" height="30" width="30" src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1659622842~hmac=f8744a956383be17ce7de7053530ee76" /></a>
+<a  href="https://twitter.com/emrebjk24" target="blank"><img  align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/twitter-204-498411.png" /></a>
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
