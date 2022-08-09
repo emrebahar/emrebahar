@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=emrebahar)
 <h3 align="left">📩 Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yunusemrebahar" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://linkedin.com/in/yunusemrebahar"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/emrebjk24" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   
   
