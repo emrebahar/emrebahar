@@ -1,4 +1,4 @@
-### Hi 👋 My name is Yunus Emre BAHAR!
+### Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> My name is Yunus Emre BAHAR!
 - 👀 I’m a Fullstack Software Developer
 - 🌱 I’m currently learning **TypeScript.**
 - 📫 How to reach me **emrebahar24@hotmail.com**
