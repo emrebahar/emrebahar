@@ -6,8 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=emrebahar)
 <h3 align="left">📩 Contact me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yunusemrebahar/" target="blank"><img align="left"  src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Yunus Emre BAHAR" height="30" width="30" /></a>
-<a  href="https://twitter.com/emrebjk24" target="blank"><img  align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/twitter-204-498411.png" /></a>
+<a href="https://linkedin.com/in/yunusemrebahar"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/emrebjk24"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  
+  
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
