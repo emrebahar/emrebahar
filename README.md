@@ -23,10 +23,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="30" height="30" style="max-width: 100%;"></a>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebahar&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/emrebahar)
-
-  
-  
 
   
 <h3 align="left">Tools:</h3>
